@@ -1,0 +1,1 @@
+document.querySelector("#myName").innerHTML = prompt("İsminizi Giriniz: ");
